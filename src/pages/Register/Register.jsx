@@ -101,7 +101,7 @@ const RegisterPage = () => {
         </LabelField>
 
         {/* <ButtonAdding type="button" onClick={() => setIsPassword(prev => !prev)}>Show Password</ButtonAdding> */}
-        <ButtonAdding type="submit">Sign In</ButtonAdding>
+        <ButtonAdding type="submit">Sign up</ButtonAdding>
       </Form>
     </RegisterGroup>
   );
