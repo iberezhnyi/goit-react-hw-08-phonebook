@@ -55,7 +55,7 @@ const RegisterPage = () => {
     <RegisterGroup>
       {isLoading && <Loader />}
 
-      <RegisterTitle>Please Sign in Your Phonebook</RegisterTitle>
+      <RegisterTitle>Please Sign up Your Phonebook</RegisterTitle>
 
       <Form onSubmit={handleSubmit}>
         <LabelField>
