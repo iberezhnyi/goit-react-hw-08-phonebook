@@ -15,10 +15,10 @@ export const FilterLabel = styled.label`
 
 export const FilterInput = styled.input`
   padding: 8px;
+  width: 196px;
   font-size: 16px;
   line-height: 1.2;
   border: 1px solid #35363a;
   border-radius: 8px;
-  width: 196px;
   cursor: pointer;
 `;
